@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+.superpowers/
+.worktrees/
+.asset-upload/
+docs/asset-inventory/*.tmp.xlsx
