@@ -7,10 +7,13 @@ import DeviceDashboard from './sections/DeviceDashboard.jsx';
 import PlatformCases from './sections/PlatformCases.jsx';
 import TailCasesCooperation from './sections/TailCasesCooperation.jsx';
 import TailPartnersContact from './sections/TailPartnersContact.jsx';
+import { useWheelPaging } from './hooks/useWheelPaging.js';
 
 const SHOW_SOLUTION_SECTION = false;
 
 export default function App() {
+  useWheelPaging();
+
   useEffect(() => {
     const scrollToHash = () => {
       const id = decodeURIComponent(window.location.hash.slice(1));

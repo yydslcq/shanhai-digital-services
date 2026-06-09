@@ -29,7 +29,7 @@ const CASES = [
     type: '公共服务',
     title: '一馆一码',
     description: '以统一入口连接城市文化资源，让在地发现自然进入日常路径。',
-    image: 'https://img.shuziwenbo.cn/7/20260605/1JMrHO1QPF4UX/299618469821947904.png',
+    image: 'https://img.shuziwenbo.cn/7/20260608/1JMrHO1QPF4UX/300692439764795392.jpg',
     alt: '一馆一码应用画面',
   },
   {
@@ -37,7 +37,7 @@ const CASES = [
     type: '互动运营',
     title: '山海亲子寻宝',
     description: '把神话线索放进亲子旅程，用探索任务带孩子读懂山海世界。',
-    image: 'https://img.shuziwenbo.cn/7/20260605/1JMrHO1QPF4UX/299618474339213312.png',
+    image: 'https://img.shuziwenbo.cn/7/20260605/1JMrHO1QPF4UX/299618477547855872.png',
     alt: '山海亲子寻宝体验画面',
   },
   {
